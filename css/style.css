@@ -58,6 +58,10 @@ header{
     padding: 1rem 2rem;
 }
 
+.logo{
+    width: 100px;
+}
+
 .navbar_menu{
     list-style: none;
     display: flex;
