@@ -77,6 +77,10 @@ header{
 
 /* Main */
 
+ol li span{
+    font-style: italic;
+}
+
 /* Footer */
 .redes{
     display: flex;
